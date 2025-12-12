@@ -1,0 +1,85 @@
+@font-face {
+    font-family: moj_font;
+    src: url(../font/Eating\ Pasta.ttf);
+}
+body{
+    background-color: #b6926e;
+}
+header{
+    font-family: moj_font;
+    background-color: #332211;
+    color: white;
+    padding: 10px 0px;
+    text-align: center;
+}
+h3{
+    font-family: moj_font;
+}
+.nav a:hover{
+    font-family: moj_font;
+    color: black;
+    background-color: #b6926e;
+    border: 2px solid black;
+    border-radius: 10%;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0px;
+}
+nav ul li {
+    display: inline;
+    margin: 0px 5px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+.p1{
+    font-family: moj_font;
+    margin-left: 17px;
+}
+main{
+    border: #332211 2px solid;
+    width: 170px;
+    margin-left: 10px;
+}
+.adresa{
+    font-family: moj_font;
+    margin-left: 17px;
+}
+.poruka{
+    font-family: moj_font;
+    margin-left: 10px;
+}
+form input{
+    width: 600px;
+    height: 70px;
+    border: 3px solid #332211;
+    background-color: white;
+    color: black;
+}
+h2{
+    font-family: moj_font;
+    border: 3px solid #332211;
+    width: 165px;
+    margin-left: 15px;
+    background-color: whitesmoke;
+}
+.vreme{
+    font-family: moj_font;
+    border: 3px solid #332211;
+    width: 200px;
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+.slikaaa{
+    width: 600px;
+    height: 110px;
+    margin-left: 50px;
+}
+@media screen and (max-width: 500px){
+    .nav {
+        border: 5px double white ;
+    } 
+}
