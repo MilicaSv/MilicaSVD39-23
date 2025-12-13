@@ -119,10 +119,10 @@ main {
     color: black;
 }
 @media screen and (min-width: 600px){
-   *{
-       background-color: whitesmoke;
-       color: black;
+   .nav{
+       border: 2px dotted whitesmoke;
    }
 }
+
 
 
