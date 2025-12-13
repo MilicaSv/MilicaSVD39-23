@@ -118,11 +118,12 @@ main {
     font-family: moj_font;
     color: black;
 }
-@media screen and (min-width: 600px){
+@media screen and (max-width: 500px){
    .nav{
        border: 2px dotted whitesmoke;
    }
 }
+
 
 
 
