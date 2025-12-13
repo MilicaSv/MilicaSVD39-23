@@ -118,8 +118,9 @@ main {
     font-family: moj_font;
     color: black;
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 600px){
     .nav {
         border: 5px double white ;
     } 
+
 }
