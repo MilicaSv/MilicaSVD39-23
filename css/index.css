@@ -119,8 +119,6 @@ main {
     color: black;
 }
 @media screen and (max-width: 600px){
-    .nav {
-        border: 5px double white ;
-    } 
-
+   *
 }
+
