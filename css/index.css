@@ -118,7 +118,11 @@ main {
     font-family: moj_font;
     color: black;
 }
-@media screen and (max-width: 600px){
-   *
+@media screen and (min-width: 600px){
+   *{
+       background-color: whitesmoke;
+       color: black;
+   }
 }
+
 
