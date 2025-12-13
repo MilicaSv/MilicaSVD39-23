@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /
+
+sitemap: https://github.com/MilicaSVD29-23/blob/main/sitemap.xml
